@@ -2,3 +2,5 @@ Regel 1
 Regel 3
 Aangepast in master.
 Nieuw in master.
+git aangepast in b2 (update bij merge)
+Nieuw in b2 (update bij merge)
