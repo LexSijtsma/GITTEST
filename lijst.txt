@@ -1,0 +1,6 @@
+total 13
+drwxr-xr-x 1 lex 197610  0 Nov 12 13:40 .
+drwxr-xr-x 1 lex 197610  0 Nov 12 11:43 ..
+drwxr-xr-x 1 lex 197610  0 Nov 12 13:40 .git
+-rw-r--r-- 1 lex 197610 52 Nov 12 13:40 leesmij.txt
+-rw-r--r-- 1 lex 197610  0 Nov 12 13:40 lijst.txt
