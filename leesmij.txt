@@ -4,3 +4,6 @@ Aangepast in master.
 Nieuw in master.
 git aangepast in b2 (update bij merge)
 Nieuw in b2 (update bij merge)
+Aangepast in b2
+Nieuw in b2
+Nieuw in b3
