@@ -1,6 +1,7 @@
-total 13
-drwxr-xr-x 1 lex 197610  0 Nov 12 13:40 .
-drwxr-xr-x 1 lex 197610  0 Nov 12 11:43 ..
-drwxr-xr-x 1 lex 197610  0 Nov 12 13:40 .git
--rw-r--r-- 1 lex 197610 52 Nov 12 13:40 leesmij.txt
--rw-r--r-- 1 lex 197610  0 Nov 12 13:40 lijst.txt
+total 18
+drwxr-xr-x 1 lex 197610   0 nov 17 21:30 ./
+drwxr-xr-x 1 lex 197610   0 nov 12 11:43 ../
+drwxr-xr-x 1 lex 197610   0 nov 17 21:29 .git/
+-rw-r--r-- 1 lex 197610  24 nov 17 21:30 datum.txt
+-rw-r--r-- 1 lex 197610 224 nov 17 21:29 leesmij.txt
+-rw-r--r-- 1 lex 197610   0 nov 17 21:30 lijst.txt
