@@ -10,3 +10,8 @@ Nieuw in b3
 Nieuwe regel op 17-nov
 Nog een regel
 En nog een
+git 
+
+Is dit al gecommit?
+
+En nog een wijziging die nog niet gestaged is.
